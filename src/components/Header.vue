@@ -1,6 +1,6 @@
 <template>
     <header class="top">
-        <h1>Split Up Expenses</h1>
+        <h1>Split Up Expenses in Vue</h1>
         <p>Split expenses and see who owes what.</p>
     </header>
 </template> 
